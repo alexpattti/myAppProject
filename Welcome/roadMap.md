@@ -16,7 +16,7 @@ There are notes at the very bottom.
 
 ---
 
-####  ** Set up Supabase & Auth – Feb 17** 
+####  **Set up Supabase & Auth – Feb 17** 
 
 📌 Get authentication working using Supabase (setting up authentication, fetching/saving data).
 -  Create a Supabase project  
@@ -27,7 +27,7 @@ There are notes at the very bottom.
 
 ---
 
-####  ** Create basic PostgreSQL database – Feb 18**
+####  **Create basic PostgreSQL database – Feb 18**
 
 📌 Build the database structure to store users & memberships
 -  Create a users table (ID, email, name, role)  
@@ -38,7 +38,7 @@ There are notes at the very bottom.
 
 ---
 
-####  ** Test real-time syncing – Feb 19** 
+####  **Test real-time syncing – Feb 19** 
 
 📌 Learn how Supabase handles real-time updates
 -  Enable real-time updates on the check_ins table  
@@ -49,7 +49,7 @@ There are notes at the very bottom.
 
 ---
 
-####  ** Build simple sign-in/sign-up – Feb 20** 
+####  **Build simple sign-in/sign-up – Feb 20** 
 
 📌 Create a user-friendly authentication screen
 -  Create a sign-up form (email, password, confirm password)  
@@ -60,7 +60,7 @@ There are notes at the very bottom.
 
 ---
 
-####  ** Set up and manage membership data – Feb 21**
+####  **Set up and manage membership data – Feb 21**
 
 📌 Store and manage membership data
 -  Define columns: ID, userID, plan type, start_date, expiry_date  
