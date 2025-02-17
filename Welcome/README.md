@@ -11,3 +11,4 @@ The project will be organized and things will be clearly labeled.
 
 There will be a roadmap labeled roadMap.md (yes camel case, it's fun)
 
+I use TickTick for my daily reminders and tasks and I also set up what's in the roadMap.md, but as tasks/subtasks for TickTick. So I'll be updating both when needed. 

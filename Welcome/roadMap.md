@@ -497,3 +497,12 @@ There are notes at the very bottom.
 Notes:
 
 You'll see in the roadmap that there are a lot of buffer days. Ideally I'd like to not use all of them, but this is my first project, and I'm new to the entire coding world. But I gave myself a cushion so that way I just move on a day ahead. Doing that will also help me stay motivated, as it will trick my brain into thinking I'm ahead of schedule which will keep me the momentum high. 
+
+When I complete things I will mark them with a ✅.
+
+
+- Mark critical tasks as High Priority (e.g., Check-In System, Membership Management).
+- Set reminders for deadlines, especially mini goals.
+- Use subtasks where necessary (e.g., “Build Check-In System” could have subtasks for “QR Code Scan” and “Manual Check-In”).
+- Every Sunday, review progress and adjust tasks if needed.
+- Every morning, check your Today’s Tasks in TickTick to stay on track.
