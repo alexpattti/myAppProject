@@ -8,7 +8,7 @@ There are notes at the very bottom.
 
 ####  **React Native Basics – Feb 16**
 
-📌 This involves learning React Native fundamentals
+📌 This involves learning React Native fundamentals  
 ✅  Hooks  
 ✅  Navigation  
 ✅  Styling     
