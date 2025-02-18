@@ -9,10 +9,10 @@ There are notes at the very bottom.
 ####  **React Native Basics – Feb 16**
 
 📌 This involves learning React Native fundamentals
--  Hooks
--  Navigation
--  Styling  
--  **Mini Goal:** Build a few small test screens to get familiar with the frameworks.
+✅  Hooks
+✅  Navigation
+✅  Styling  
+✅  **Mini Goal:** Build a few small test screens to get familiar with the frameworks.
 
 ---
 
